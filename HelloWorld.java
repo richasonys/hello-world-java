@@ -6,6 +6,10 @@ public class HelloWorld {
     System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello DevOps");
+    System.out.println("Hello DevOps");
+    System.out.println("Hello DevOps");
+    System.out.println("Hello DevOps");
+    System.out.println("Hello DevOps");
 
   }
 }
